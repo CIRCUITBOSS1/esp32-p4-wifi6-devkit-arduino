@@ -4,8 +4,7 @@ Working Arduino IDE examples for the **Waveshare ESP32-P4-WIFI6-DEV-KIT**: a Wi-
 
 Most public demos for this board are ESP-IDF. This repo records what actually worked in the **Arduino IDE**, including the errors I hit and how I fixed them.
 
-> Video walkthrough: \*(add your YouTube link here)\*
-
+> Video walkthrough: Coming Soon!!!
 ## Why this repo exists
 
 I bought this board and, for about four months, I couldn't really use it.
