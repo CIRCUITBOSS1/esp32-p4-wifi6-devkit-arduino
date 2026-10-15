@@ -39,7 +39,7 @@ Prices change, so check the store for the current price. I am not affiliated wit
 |#|Folder|What it does|Status|
 |-|-|-|-|
 |01|`01\_WebServer\_STA`|Web server on your home Wi-Fi|Worked|
-|02|`02\_WebServer\_AP`|Web server on the P4's own Wi-Fi network (SoftAP)|Not tested yet|
+|02|`02\_WebServer\_AP`|Web server on the P4's own Wi-Fi network (SoftAP)|Worked|
 |03|`03\_Audio\_Tone`|440 Hz tone through the speaker (ES8311 + amp)|Worked, tune volume|
 |04|`04\_Internet\_Radio`|Streams an MP3 internet radio station|Worked, tune volume|
 
